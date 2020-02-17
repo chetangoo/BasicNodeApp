@@ -1,2 +1,2 @@
 # BasicNodeApp
-<h1>Mongodb, Excess, React.js, Node.js app</h1>
+<h1>Mongodb, Express, React.js, Node.js app</h1>
